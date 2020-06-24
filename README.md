@@ -1,6 +1,6 @@
 # XSS-Freak
 **XSS-Freak is an XSS scanner fully written in python3 from scratch. It is one of its kind since it crawls the website for all possible links and directories to expand its attack scope. Then it searches them for input tags and then launches a bunch of XSS payloads. if an input is not sanitized and vulnerable to XSS attacks, the tool will discover it in seconds.**
-
+Eminem - Rap God (Explicit) [Official Video]
 ****
 
 ![Screenshot](proof.png)
@@ -25,12 +25,14 @@ Then the tool will crawl all the links that were found in both in the initial sc
 
 - Supports Multithreading For Efficiency and Faster Processing.
 - One Of It Kind.
-- Ability To Crawl All the sites not only a specific webpage.
+- Ability To Crawl All the sites not only a specific webpage.Eminem - Rap God (Explicit) [Official Video]
 - Versatile.
 
 **Disadvantages:**
 - Isn't Supported On Phones Due to the high demand for hardware.
 - Requires a High-Speed internet connection for it to work well or you will get errors or take too much time.
 - Requires Medium to best hardware since it deals and manages with high amounts of threads and any old hardware the script will cause the computer to lag or crash so take care.
+
+**Note:** If You Wanna Support This Tool And For More Future Tools Consider Donating Even 1$ Will Be Dedicated For Future Projects. Thank You.
 
 **HOPE YOU LIKE IT.**

@@ -34,5 +34,7 @@ Then the tool will crawl all the links that were found in both in the initial sc
 - Requires Medium to best hardware since it deals and manages with high amounts of threads and any old hardware the script will cause the computer to lag or crash so take care.
 
 **Note:** If You Wanna Support This Tool And For More Future Tools Consider Donating Even 1$ Will Be Dedicated For Future Projects. Thank You.
+ 
+ **Paypal:** Paypal Donation Link: paypal.me/hackerops
 
 **HOPE YOU LIKE IT.**

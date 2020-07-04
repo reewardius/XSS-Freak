@@ -1,6 +1,5 @@
 # XSS-Freak
 **XSS-Freak is an XSS scanner fully written in python3 from scratch. It is one of its kind since it crawls the website for all possible links and directories to expand its attack scope. Then it searches them for input tags and then launches a bunch of XSS payloads. if an input is not sanitized and vulnerable to XSS attacks, the tool will discover it in seconds.**
-Eminem - Rap God (Explicit) [Official Video]
 ****
 
 ![Screenshot](proof.png)
